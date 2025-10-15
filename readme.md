@@ -4,7 +4,11 @@ This repository contains a pack of custom configuration files for some programs,
 
 ## Overview
 
-(sample images)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cec9176a-c29e-4afc-9767-6105ca0c3ffe" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96e00926-bfac-4821-96a2-4a6fcdacfa2f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5e4194d-68c5-487b-bb1b-a7baa3ffd8ec" />
 
 ## Installation
 
