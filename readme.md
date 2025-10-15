@@ -1,6 +1,7 @@
 # ARCH LINUX RICE WITH HYPRLAND
 
-This repository contains a pack of custom configuration files for some programs, designed for use on Arch Linux with Hyprland, but mostly can be used on any preferred distro (probably)
+This repository contains a pack of custom configuration files for some programs, designed for use on Arch Linux with Hyprland, but mostly can be used on any preferred distro (probably).
+Configured for use with en/ru locale, ru as main, but can be tweaked easily for desired user.
 
 ## Overview
 
